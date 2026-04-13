@@ -24,3 +24,4 @@ Here the model accuracy when I've trained and tested with the dataset containing
 
 Output:
 
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a59518b5-e5de-4fa1-826f-6fc644868bc9" />
